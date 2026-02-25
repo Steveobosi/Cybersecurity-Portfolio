@@ -1,11 +1,19 @@
 # Cybersecurity Portfolio
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Steveobosi/Cybersecurity-Portfolio) 
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Steveobosi/Cybersecurity-Portfolio) 
+![GitHub Issues](https://img.shields.io/github/issues/Steveobosi/Cybersecurity-Portfolio)
+
 This repository showcases hands-on cybersecurity projects, virtual simulations, and labs completed from November 2025 – February 2026. It demonstrates practical skills in log analysis, threat detection, incident response, and security engineering.
+
+---
 
 ## Table of Contents
 - [Forage Simulations](#forage-simulations)
 - [SOC Labs](#soc-labs)
 - [Tools Projects](#tools-projects)
+
+---
 
 ## Forage Simulations
 Virtual job simulations completed on Forage.
@@ -22,6 +30,8 @@ Virtual job simulations completed on Forage.
 - [DataCom Job Simulation](Forage-Simulations/DataCom-Job-Simulation/README.md)  
   Risk management and GRC simulation experience.
 
+---
+
 ## SOC Labs
 Hands-on SOC analyst labs and home lab exercises.
 
@@ -33,6 +43,8 @@ Hands-on SOC analyst labs and home lab exercises.
 
 - [LetsDefend SOC Lab](SOC-Labs/LetsDefend-SOC-Lab/README.md)  
   Simulated SOC investigations, alert validation, and incident response practice.
+
+---
 
 ## Tools Projects
 Projects focused on specific cybersecurity tools.
