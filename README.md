@@ -1,8 +1,12 @@
 # Cybersecurity Portfolio
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Steveobosi/Cybersecurity-Portfolio) 
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Steveobosi/Cybersecurity-Portfolio) 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Steveobosi/Cybersecurity-Portfolio)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Steveobosi/Cybersecurity-Portfolio)
 ![GitHub Issues](https://img.shields.io/github/issues/Steveobosi/Cybersecurity-Portfolio)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
+![Splunk](https://img.shields.io/badge/Splunk-Black)
+![SOC](https://img.shields.io/badge/SOC-Orange)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-Green)
 
 This repository showcases hands-on cybersecurity projects, virtual simulations, and labs completed from November 2025 – February 2026. It demonstrates practical skills in log analysis, threat detection, incident response, and security engineering.
 
